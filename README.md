@@ -23,4 +23,4 @@ Consideración | Implicación
 
 ## Copyright y derechos de autor
 
-_Monitor-en-tiempo-real-de-un-sistema-de-fabricacion-aditiva para Octoprint_ está siendo desarrollado en [Ababía Tecnológica] por David Zotes. Si va a usar, distribuir o modificar el código fuente o binarios, debe siempre respetar el acuerdo de licencia y conservar la autoría original.
+_Monitor_en_tiempo_real_de_un_sistema_de_fabricacion_aditiva_para_Octoprint_ está siendo desarrollado en [Ababía Tecnológica] por David Zotes. Si va a usar, distribuir o modificar el código fuente o binarios, debe siempre respetar el acuerdo de licencia y conservar la autoría original.
